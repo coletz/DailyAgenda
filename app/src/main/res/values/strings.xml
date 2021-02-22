@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Daily Agenda</string>
+    <string name="save">Save</string>
+    <string name="eraser">Eraser</string>
+    <string name="switch_to_write">Switch to write</string>
+    <string name="switch_to_eraser">Switch to eraser</string>
+    <string name="toggle_eraser">Toggle eraser</string>
+
+
+    <string name="shutter">Shutter</string>
+    <string name="camera_switch">Switch</string>
+    <string name="next_filter">Next filter</string>
+    <string name="prev_filter">Prev filter</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="saved_successfully">Saved successfully</string>
+    <string name="subtitle_today">Today</string>
+    <plurals name="subtitle_days_ago">
+        <item quantity="one">Yesterday</item>
+        <item quantity="other">%1$d days ago</item>
+    </plurals>
+    <plurals name="subtitle_days_next">
+        <item quantity="one">Tomorrow</item>
+        <item quantity="other">in %1$d days</item>
+    </plurals>
+</resources>
